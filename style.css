@@ -1,0 +1,66 @@
+:root {
+    background-color:thistle;
+  }
+  
+  h1 {
+      font-family: 'Poppins', sans-serif;
+  }
+  
+  h3 {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  h4 {
+      color:rebeccapurple;
+      font-size: 20px;
+      margin-bottom:25px;
+      font-family: 'Poppins', sans-serif;
+  }
+  
+  
+  button {
+    font-size: 15px;
+    text-align: center;
+    width: 120px;
+    background-color: white;
+    border: 1px solid rebeccapurple;
+    color:rebeccapurple;
+  
+  }
+  
+  #playdiv{
+      text-align: center;
+  }
+  
+  button:hover {
+    cursor: pointer;
+    box-shadow:0 10px 10px 0 rebeccapurple;
+  }
+  
+  
+  
+  /* ELEMENTS THAT APPEAR AFTER MANIPULATING THE DOM: */
+  
+  
+  
+  #score,#opponent-score, h1 {
+      font-size: 30px;
+      color:rebeccapurple;
+      margin-bottom: 10px;
+      text-align: center;
+  }
+  
+  #main-game {
+      font-family: 'Poppins', sans-serif;
+      color:rebeccapurple;
+  }
+  
+  #opponent-section {
+      font-family: 'Poppins', sans-serif;
+      color:rebeccapurple;
+  }
+  
+  
+  
